@@ -303,16 +303,16 @@ public class CloudSimExample7 {
 }
 
  ## Output 
-- No changes
+-1. No changes
   ![WhatsApp Image 2026-03-09 at 2 59 40 PM](https://github.com/user-attachments/assets/8227b1b4-f44a-4eae-a6ff-788bedc24073)
 
-- MIPS : 500
+-2. MIPS : 500
   <img width="1064" height="780" alt="image" src="https://github.com/user-attachments/assets/a4616920-6754-48ed-a102-4e4663734a32" />
 
-- All Scalable Parameters: 2
+-3. All Scalable Parameters: 2
 <img width="1035" height="902" alt="image" src="https://github.com/user-attachments/assets/77d53f12-3878-444a-b933-761af91e7781" />
 
-- Cloudlets: 30
+-4. Cloudlets: 30
 <img width="1196" height="1003" alt="image" src="https://github.com/user-attachments/assets/7bfa7409-df7c-447a-a9ad-de8e3c07c6ae" />
 
 
